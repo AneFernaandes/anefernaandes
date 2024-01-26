@@ -7,7 +7,7 @@
  
  <h1 align="left">Eliane Patrício</h1>
   <a href="https://www.linkedin.com/in/anefernandesadm/">
-    <img width="80px" src="https://icons8.com.br/icon/44019/linkedin" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://99prod.s3.amazonaws.com/uploads/image/file/549999/linkedin-logo-3.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
@@ -24,18 +24,17 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<code><img width="40px" src="https://icons8.com.br/icon/qBvOwZw81tVy/python" title = "PYTHON"/></code>
+<code><img width="40px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🤿 Sou bolsista do Programa de Formação em Dados da Ada Tech em parceria com o Ifood <a href="https://ada.tech/">Ada Tech</a>;</p>
+ <p align="left">📊 Sou bolsista do Programa de Formação em Dados da Ada Tech em parceria com o Ifood <a href="https://ada.tech/">Ada Tech</a>;</p>
  <p align="left">📚 Tenho dedicado meu tempo ao estudo de Python e outras linguagens para análise de dados, além de aprofundar meus conhecimentos em HTML, CSS e JS para o desenvolvimento web;</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira da área Administrativa/RH, dicas de estudo e tecnologia no <a href="https://www.linkedin.com/in/anefernandesadm/">Linkedin</a>. Segue lá e chama!</p>
  
@@ -50,14 +49,14 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 
 </br>
 
-<a href="https://wa.me/5571988650296" target="_blank"><img align="left" alt="Whatsap" width="22px" src="https://www.flaticon.com/br/icone-gratis/whatsapp_154858?term=whatsapp&page=1&position=2&origin=tag&related_id=154858" />
-<a href="https://www.linkedin.com/in/anefernandesadm/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://www.flaticon.com/br/icone-gratis/logotipo-do-linkedin_61109?term=linkedin&page=1&position=3&origin=search&related_id=61109" />
-<a href="https://github.com/AneFernaandes?tab=repositories" target="_blank"><img alt="Blog" width="22px" src="https://www.flaticon.com/br/icone-gratis/github_733609?term=github&page=1&position=3&origin=search&related_id=733609" /></a>
+<a href="https://wa.me/5571988650296" target="_blank"><img align="left" alt="Whatsap" width="22px" src="https://i.pngimg.me/thumb/f/720/fe5d508632.jpg" />
+<a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://99prod.s3.amazonaws.com/uploads/image/file/549999/linkedin-logo-3.png" />
+<a href="" target="_blank"><img alt="Blog" width="22px" src="https://www.flaticon.com/br/icone-gratis/github_733609?term=github&page=1&position=3&origin=search&related_id=733609" /></a>
 
 ##
 <p align="center">
 <a href="https://github.com/anefernaandes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png"/>
 </a>
 </p>
