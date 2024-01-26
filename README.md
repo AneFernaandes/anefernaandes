@@ -38,7 +38,7 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
  <p align="left">📚 Tenho dedicado meu tempo ao estudo de Python e outras linguagens para análise de dados, além de aprofundar meus conhecimentos em HTML, CSS e JS para o desenvolvimento web;</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira da área Administrativa/RH, dicas de estudo e tecnologia no <a href="https://www.linkedin.com/in/anefernandesadm/">Linkedin</a>. Segue lá e chama!</p>
  
- <p align="left">☕🎮 Amo cinema e café, adoro jogos online (mas, não sou Pro Player kkkk)</p>
+ <p align="left">☕🎮 Amo cinema, academia e café, adoro jogos online (mas, não sou Pro Player kkkk)</p>
 </div>
 
 
@@ -55,8 +55,8 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 
 ##
 <p align="center">
-<a href="https://github.com/anefernaandes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png"/>
+<a href="https://github.com/AneFernaandes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AneFernaandes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AneFernaandes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
