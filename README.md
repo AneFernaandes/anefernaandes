@@ -1,7 +1,6 @@
 <img align="right" width="250px" style="margin-top:-20px" src="perfil-removebg-preview.png">
 
 </br>
-</br>
 
 <div dsplay="inline-block">
  
@@ -10,9 +9,6 @@
     <img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
-
-
-</br>
 </br>
 
 ## Hello, Devs!!
@@ -22,7 +18,6 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 <p align="center">
   <img src="https://media1.tenor.com/m/gCH9wW1z6gQAAAAd/busy-work.gif" width="350">
 </p>
-##
 <p align="center">
 <a href="https://github.com/AneFernaandes">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AneFernaandes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
