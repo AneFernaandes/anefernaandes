@@ -52,6 +52,6 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 </br>
 
 <a href="https://wa.me/5571988650296" target="_blank"><img align="left" alt="Whatsap" width="22px" src="https://www.svgrepo.com/show/513060/whatsapp-128.svg" />
-<a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
-<a href="" target="_blank"><img alt="Blog" width="22px" src="https://www.svgrepo.com/show/512317/github-142.svg" /></a>
+<a href="https://www.linkedin.com/in/anefernandesadm/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
+<a href="https://github.com/AneFernaandes?tab=repositories" target="_blank"><img alt="Blog" width="22px" src="https://www.svgrepo.com/show/512317/github-142.svg" /></a>
 
