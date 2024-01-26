@@ -49,9 +49,9 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 
 </br>
 
-<a href="https://wa.me/5571988650296" target="_blank"><img align="left" alt="Whatsap" width="22px" src="https://i.pngimg.me/thumb/f/720/fe5d508632.jpg" />
+<a href="https://wa.me/5571988650296" target="_blank"><img align="left" alt="Whatsap" width="22px" src="https://www.svgrepo.com/show/513060/whatsapp-128.svg" />
 <a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
-<a href="" target="_blank"><img alt="Blog" width="22px" src="https://www.flaticon.com/br/icone-gratis/github_733609?term=github&page=1&position=3&origin=search&related_id=733609" /></a>
+<a href="" target="_blank"><img alt="Blog" width="22px" src="https://www.svgrepo.com/show/512317/github-142.svg" /></a>
 
 ##
 <p align="center">
