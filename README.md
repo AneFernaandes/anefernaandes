@@ -22,6 +22,13 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 <p align="center">
   <img src="https://media1.tenor.com/m/gCH9wW1z6gQAAAAd/busy-work.gif" width="350">
 </p>
+##
+<p align="center">
+<a href="https://github.com/AneFernaandes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AneFernaandes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AneFernaandes&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -53,10 +60,3 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 <a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 <a href="" target="_blank"><img alt="Blog" width="22px" src="https://www.svgrepo.com/show/512317/github-142.svg" /></a>
 
-##
-<p align="center">
-<a href="https://github.com/AneFernaandes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AneFernaandes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AneFernaandes&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
