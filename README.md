@@ -7,7 +7,7 @@
  
  <h1 align="left">Eliane Patrício</h1>
   <a href="https://www.linkedin.com/in/anefernandesadm/">
-    <img width="80px" src="https://99prod.s3.amazonaws.com/uploads/image/file/549999/linkedin-logo-3.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
@@ -45,12 +45,12 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 
 </br>
 
-📫 Você pode falar comigo pelo [Whatsapp](https://wa.me/5571988650296) ou pelo [Linkedin](https://www.linkedin.com/in/anefernandesadm/) (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
+📫 Você pode falar comigo pelo [Whatsapp](https://wa.me/5571988650296) ou pelo [Linkedin](https://www.linkedin.com/in/anefernandesadm/)  e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. 
 
 </br>
 
 <a href="https://wa.me/5571988650296" target="_blank"><img align="left" alt="Whatsap" width="22px" src="https://i.pngimg.me/thumb/f/720/fe5d508632.jpg" />
-<a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://99prod.s3.amazonaws.com/uploads/image/file/549999/linkedin-logo-3.png" />
+<a href="" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 <a href="" target="_blank"><img alt="Blog" width="22px" src="https://www.flaticon.com/br/icone-gratis/github_733609?term=github&page=1&position=3&origin=search&related_id=733609" /></a>
 
 ##
