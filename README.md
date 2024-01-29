@@ -7,7 +7,6 @@
  <h1 align="left">Eliane Patrício</h1>
   <p align="left"> <a href="https://www.linkedin.com/in/anefernandesadm/" target="blank"><img src="https://img.shields.io/twitter/follow/anefernandesadm?logo=twitter&style=for-the-badge" alt="anefernandesadm" /></a> </p>
 </div>
-</br>
 
 ## Hello, Devs!!
 
