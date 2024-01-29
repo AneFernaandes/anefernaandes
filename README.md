@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/anefernandesadm/" target="_blank"> 
     <img width="80px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" style="vertical-align:top;">
   </a>
+  <p align="left"> <a href="https://www.linkedin.com/in/anefernandesadm/" target="blank"><img src="https://img.shields.io/twitter/follow/anefernandesadm?logo=twitter&style=for-the-badge" alt="anefernandesadm" /></a> </p>
 </div>
 </br>
 
