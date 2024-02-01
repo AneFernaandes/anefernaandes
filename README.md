@@ -38,7 +38,7 @@ Tenho 32 anos, moro em Salvador/BA, sou Assistente Financeiro, apaixonada por pr
  <p align="left">📚 Tenho dedicado meu tempo ao estudo de Python e outras linguagens para análise de dados, além de aprofundar meus conhecimentos em HTML, CSS e JS para o desenvolvimento web;</p>
  <p align="left">📷 Compartilho minhas experiências com transição de carreira da área Administrativa/RH, dicas de estudo e tecnologia no <a href="https://www.linkedin.com/in/anefernandesadm/">Linkedin</a>. Segue lá e chama!</p>
  
- <p align="left">☕🎮 Amo cinema, academia e café, adoro jogos online (mas, não sou Pro Player kkkk)</p>
+ <p align="left">☕🎮 Amo cinema, academia e café, adoro jogar Fortnite (mas, não sou Pro Player kkkk). Joga também? Manda no nick no direct do LinkedIn.</p>
 </div>
 
 
