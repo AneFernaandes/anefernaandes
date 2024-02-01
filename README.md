@@ -29,7 +29,7 @@ Tenho 32 anos, moro em Salvador/BA e sou apaixonada por programação e dogs! So
 <code><img width="40px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" title = "PYTHON"/></code>
 <code><img width="40px" src="https://www.svgrepo.com/show/374171/vscode.svg" title = "VSCODE"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="40px" src="https://www.svgrepo.com/show/507714/github.svg" title = "GITHUB"/></code>
 
 </br>
 </br>
