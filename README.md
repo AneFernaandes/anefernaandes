@@ -1,4 +1,3 @@
-<img align="right" width="250px" style="margin-top:-20px" src="perfil-removebg-preview.png">
 
 </br>
 
@@ -10,7 +9,7 @@
 
 ## Hello, Devs!!
 
-Tenho 32 anos, moro em Salvador/BA, sou Assistente Financeiro, apaixonada por programação e dogs! Sou uma aventureira no vasto universo da programação, sempre em busca de novos desafios e aprendizados. Atualmente, estou mergulhando de coração nesse fascinante mundo, aprendendo e amando cada linha de código que escrevo. 💙
+Olá, sou de Salvador/BA, sou apaixonada por programação e dogs! Sou uma aventureira no vasto universo da programação, sempre em busca de novos desafios e aprendizados. Atualmente, estou mergulhando de coração nesse fascinante mundo, aprendendo e amando cada linha de código que escrevo. 💙
 
 <p align="center">
   <img src="https://media1.tenor.com/m/gCH9wW1z6gQAAAAd/busy-work.gif" width="350">
